@@ -1,0 +1,18 @@
+{
+  "name": "sbzz",
+  "version": "0.0.1",
+  "description": "lan",
+  "main": "index.js",
+  "scripts": {
+    "test": "en"
+  },
+  "keywords": [
+    "qwer"
+  ],
+  "repository":{
+    "type":"Git",
+    "url":"git+https://github.com/blackwuxin/testdemo.git"
+  },
+  "author": "zm",
+  "license": "MIT"
+}
